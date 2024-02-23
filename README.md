@@ -1,1 +1,1 @@
-# .github
+# Infinity Innovation Engine Development Team
